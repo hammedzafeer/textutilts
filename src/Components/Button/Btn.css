@@ -1,0 +1,27 @@
+.form-btn{
+    padding: 7px 12px;
+    border-radius: 8px;
+    border: navajowhite;
+    margin: 5px 7px 7px 0;
+}
+.disable{
+    pointer-events: none;
+    opacity: 0.7;
+}
+.active{
+    pointer-events:painted;
+    opacity: 1;
+}
+.back-primary{
+    background-color: #0d6efd;
+    color: white;
+}
+
+.back-dark{
+    background-color: #198754;
+    color: white;
+}
+.back-light{
+    background-color: green;
+    color: white;
+}
